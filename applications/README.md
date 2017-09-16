@@ -1,5 +1,3 @@
-# Void Gaming Utilities
+# Foresight Alliance Utilities
 
-This repository contains utilities that are made available
-as a website on GitHub Pages to use for 
-Void Gaming
+Utilities only available for FA Staff Members
